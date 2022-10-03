@@ -13,3 +13,4 @@ let imprimeValor = ()=>{console.log(document.getElementById("inputFruta4").value
 let adicioneFruta4 =() =>{
     document.getElementById("fruta-4").innerHTML= document.getElementById("inputFruta4").value
 }
+
